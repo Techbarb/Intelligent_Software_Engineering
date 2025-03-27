@@ -1,0 +1,938 @@
+System,Dataset,Model,MAE,MAPE,RMSE
+batlik,corona.csv,Linear Regression,0.386977574,3.064577708,0.553186428
+batlik,corona.csv,XGBoost,0.096958969,0.577306974,0.134735719
+batlik,corona.csv,Linear Regression,0.360798155,2.688060826,0.522264738
+batlik,corona.csv,XGBoost,0.10157215,0.695970419,0.134682588
+batlik,corona.csv,Linear Regression,0.383238237,1.70093902,0.555232235
+batlik,corona.csv,XGBoost,0.099686673,0.486332549,0.134413933
+batlik,corona.csv,Linear Regression,0.375081668,1.782483454,0.558393377
+batlik,corona.csv,XGBoost,0.099855535,0.522333536,0.134222738
+batlik,corona.csv,Linear Regression,0.395804288,2.483938085,0.577819521
+batlik,corona.csv,XGBoost,0.103088835,0.812765705,0.140121409
+batlik,cranium.csv,Linear Regression,0.124370455,0.536921856,0.171621851
+batlik,cranium.csv,XGBoost,0.071308017,0.585202072,0.096609131
+batlik,cranium.csv,Linear Regression,0.118848283,0.341270309,0.169648563
+batlik,cranium.csv,XGBoost,0.069608403,0.280569425,0.091984238
+batlik,cranium.csv,Linear Regression,0.130446599,0.451647561,0.18258081
+batlik,cranium.csv,XGBoost,0.074337103,0.395492612,0.095929637
+batlik,cranium.csv,Linear Regression,0.125445222,0.367007201,0.176197498
+batlik,cranium.csv,XGBoost,0.068899767,0.322418681,0.09135324
+batlik,cranium.csv,Linear Regression,0.130130576,0.687763201,0.184844333
+batlik,cranium.csv,XGBoost,0.072487325,0.67250611,0.0966421
+batlik,cubus.csv,Linear Regression,0.218458252,1.186497473,0.297710267
+batlik,cubus.csv,XGBoost,0.102591121,0.755728145,0.132216778
+batlik,cubus.csv,Linear Regression,0.220376949,0.786310176,0.304363316
+batlik,cubus.csv,XGBoost,0.101133571,0.826122115,0.132880996
+batlik,cubus.csv,Linear Regression,0.231482057,0.747587754,0.314024759
+batlik,cubus.csv,XGBoost,0.103217747,0.610504933,0.136860461
+batlik,cubus.csv,Linear Regression,0.226171209,1.051813231,0.309364969
+batlik,cubus.csv,XGBoost,0.101616614,0.699685006,0.131930992
+batlik,cubus.csv,Linear Regression,0.233639375,0.941000696,0.325735548
+batlik,cubus.csv,XGBoost,0.105679839,0.587734211,0.139017238
+batlik,flame.csv,Linear Regression,0.15656094,0.356207883,0.20390538
+batlik,flame.csv,XGBoost,0.097666837,0.233694142,0.123878245
+batlik,flame.csv,Linear Regression,0.150095012,0.344800774,0.202912369
+batlik,flame.csv,XGBoost,0.093706108,0.220661564,0.121588486
+batlik,flame.csv,Linear Regression,0.160207153,0.336840138,0.213928865
+batlik,flame.csv,XGBoost,0.09434824,0.201994143,0.121662823
+batlik,flame.csv,Linear Regression,0.16090266,0.4057604,0.212749063
+batlik,flame.csv,XGBoost,0.095334315,0.227204358,0.123694361
+batlik,flame.csv,Linear Regression,0.161930602,0.35676211,0.217233105
+batlik,flame.csv,XGBoost,0.097014521,0.183610122,0.124173814
+batlik,france.csv,Linear Regression,0.142806721,0.586260804,0.187529447
+batlik,france.csv,XGBoost,0.074392356,0.421215838,0.096785502
+batlik,france.csv,Linear Regression,0.134481938,0.504895432,0.182542945
+batlik,france.csv,XGBoost,0.071917898,0.384089984,0.094226032
+batlik,france.csv,Linear Regression,0.143443672,0.600391391,0.187984388
+batlik,france.csv,XGBoost,0.073419228,0.445763634,0.095118055
+batlik,france.csv,Linear Regression,0.144199986,0.773623041,0.188074109
+batlik,france.csv,XGBoost,0.074083338,0.55038588,0.097699116
+batlik,france.csv,Linear Regression,0.148259288,0.575584643,0.199056154
+batlik,france.csv,XGBoost,0.080866831,0.375819852,0.105503348
+batlik,frisco.csv,Linear Regression,0.276704355,0.90308457,0.365630005
+batlik,frisco.csv,XGBoost,0.162631808,0.647353027,0.205919857
+batlik,frisco.csv,Linear Regression,0.25532761,1.032272164,0.342424939
+batlik,frisco.csv,XGBoost,0.164993537,0.644602948,0.208295277
+batlik,frisco.csv,Linear Regression,0.281791237,1.089628737,0.376286501
+batlik,frisco.csv,XGBoost,0.164702649,0.609677154,0.208663627
+batlik,frisco.csv,Linear Regression,0.268536182,1.184934462,0.360185936
+batlik,frisco.csv,XGBoost,0.165861751,1.048989574,0.204730079
+batlik,frisco.csv,Linear Regression,0.285378525,1.387021424,0.388150369
+batlik,frisco.csv,XGBoost,0.16354356,0.948108972,0.204773692
+batlik,jelly.csv,Linear Regression,0.484107714,6.192223964,0.667306141
+batlik,jelly.csv,XGBoost,0.06221838,1.20205703,0.100094746
+batlik,jelly.csv,Linear Regression,0.46723109,4.515265118,0.611178052
+batlik,jelly.csv,XGBoost,0.059309831,0.355089371,0.106795451
+batlik,jelly.csv,Linear Regression,0.473239941,4.54852136,0.650569392
+batlik,jelly.csv,XGBoost,0.06429865,0.866802436,0.110025369
+batlik,jelly.csv,Linear Regression,0.470944788,4.642934706,0.654158638
+batlik,jelly.csv,XGBoost,0.065427954,0.934759671,0.119984297
+batlik,jelly.csv,Linear Regression,0.483422169,5.796769094,0.670706485
+batlik,jelly.csv,XGBoost,0.065407791,0.860220959,0.114976237
+batlik,karte.csv,Linear Regression,0.361329417,1.369291229,0.448887685
+batlik,karte.csv,XGBoost,0.055916522,0.40175915,0.074767043
+batlik,karte.csv,Linear Regression,0.359883708,1.139000099,0.44298049
+batlik,karte.csv,XGBoost,0.058474931,0.349942131,0.077235373
+batlik,karte.csv,Linear Regression,0.370030658,1.322722967,0.463787243
+batlik,karte.csv,XGBoost,0.055041452,0.360437328,0.075361068
+batlik,karte.csv,Linear Regression,0.365030098,1.609846411,0.449640801
+batlik,karte.csv,XGBoost,0.053904431,0.471892879,0.071276334
+batlik,karte.csv,Linear Regression,0.370980921,1.398318013,0.468378215
+batlik,karte.csv,XGBoost,0.058999137,0.434985401,0.078717153
+batlik,mandelbrot.csv,Linear Regression,0.396105923,1.92380254,0.54196365
+batlik,mandelbrot.csv,XGBoost,0.17053313,0.804647941,0.22276536
+batlik,mandelbrot.csv,Linear Regression,0.366387685,1.384033735,0.504500469
+batlik,mandelbrot.csv,XGBoost,0.171416287,0.702879118,0.225850243
+batlik,mandelbrot.csv,Linear Regression,0.402004924,1.562156048,0.55979309
+batlik,mandelbrot.csv,XGBoost,0.167688434,0.805124613,0.226027045
+batlik,mandelbrot.csv,Linear Regression,0.407797103,1.278729537,0.558394241
+batlik,mandelbrot.csv,XGBoost,0.172223109,0.601259134,0.227337381
+batlik,mandelbrot.csv,Linear Regression,0.406005561,1.472702626,0.565948214
+batlik,mandelbrot.csv,XGBoost,0.164883894,0.688337802,0.217748847
+batlik,strawberry.csv,Linear Regression,0.301960547,0.857809106,0.412248
+batlik,strawberry.csv,XGBoost,0.119166164,0.488878936,0.153298459
+batlik,strawberry.csv,Linear Regression,0.281354564,0.961066029,0.387906425
+batlik,strawberry.csv,XGBoost,0.116780034,0.396695333,0.148658247
+batlik,strawberry.csv,Linear Regression,0.296877885,1.562678046,0.412847351
+batlik,strawberry.csv,XGBoost,0.118290628,0.675179083,0.148576132
+batlik,strawberry.csv,Linear Regression,0.28898815,0.901368066,0.413940761
+batlik,strawberry.csv,XGBoost,0.11315855,0.419167322,0.144359435
+batlik,strawberry.csv,Linear Regression,0.304971903,1.095152399,0.431023069
+batlik,strawberry.csv,XGBoost,0.115493731,0.60360688,0.148073486
+batlik,village.csv,Linear Regression,0.493057457,2.062688805,0.677147776
+batlik,village.csv,XGBoost,0.026109167,0.103464002,0.070918677
+batlik,village.csv,Linear Regression,0.485745517,2.030605906,0.631607428
+batlik,village.csv,XGBoost,0.023954884,0.072896425,0.067999007
+batlik,village.csv,Linear Regression,0.492825733,2.219814954,0.667712448
+batlik,village.csv,XGBoost,0.029880109,0.110692459,0.088939803
+batlik,village.csv,Linear Regression,0.489532508,2.056067688,0.67955523
+batlik,village.csv,XGBoost,0.028676678,0.104729542,0.097570655
+batlik,village.csv,Linear Regression,0.494291171,2.239834515,0.698673927
+batlik,village.csv,XGBoost,0.028738734,0.116297524,0.100543609
+dconvert,jpeg-large.csv,Linear Regression,0.343664128,3.775983369,0.469428445
+dconvert,jpeg-large.csv,XGBoost,0.067084324,1.012016921,0.094073157
+dconvert,jpeg-large.csv,Linear Regression,0.327296159,1.931591821,0.438585751
+dconvert,jpeg-large.csv,XGBoost,0.066093919,0.55205049,0.093093004
+dconvert,jpeg-large.csv,Linear Regression,0.332057143,2.70975916,0.439151992
+dconvert,jpeg-large.csv,XGBoost,0.066239173,0.664122279,0.094447253
+dconvert,jpeg-large.csv,Linear Regression,0.337625165,3.421178573,0.454775763
+dconvert,jpeg-large.csv,XGBoost,0.066435918,0.980236183,0.094044465
+dconvert,jpeg-large.csv,Linear Regression,0.33988217,3.07760498,0.456794476
+dconvert,jpeg-large.csv,XGBoost,0.066758374,1.07659218,0.097608868
+dconvert,jpeg-medium.csv,Linear Regression,0.345949611,1.267507409,0.471836897
+dconvert,jpeg-medium.csv,XGBoost,0.067429436,0.377664865,0.090670172
+dconvert,jpeg-medium.csv,Linear Regression,0.327258967,1.418848497,0.438881342
+dconvert,jpeg-medium.csv,XGBoost,0.065810546,0.448146198,0.088865481
+dconvert,jpeg-medium.csv,Linear Regression,0.331925991,1.343329886,0.438915005
+dconvert,jpeg-medium.csv,XGBoost,0.065794682,0.405313388,0.08974552
+dconvert,jpeg-medium.csv,Linear Regression,0.33733396,1.458105777,0.45548727
+dconvert,jpeg-medium.csv,XGBoost,0.067572897,0.447964726,0.091974956
+dconvert,jpeg-medium.csv,Linear Regression,0.339638223,1.377391559,0.457836044
+dconvert,jpeg-medium.csv,XGBoost,0.067705659,0.429347236,0.093345356
+dconvert,jpeg-small.csv,Linear Regression,0.577439376,1.105127864,0.73962435
+dconvert,jpeg-small.csv,XGBoost,0.513123886,1.126880153,0.669605519
+dconvert,jpeg-small.csv,Linear Regression,0.568956566,1.22658651,0.722231166
+dconvert,jpeg-small.csv,XGBoost,0.514022784,1.19877877,0.664857375
+dconvert,jpeg-small.csv,Linear Regression,0.596984549,1.116056307,0.755210276
+dconvert,jpeg-small.csv,XGBoost,0.512420591,1.045528146,0.663728071
+dconvert,jpeg-small.csv,Linear Regression,0.585333717,1.125434912,0.740470709
+dconvert,jpeg-small.csv,XGBoost,0.504800648,1.076686341,0.6520955
+dconvert,jpeg-small.csv,Linear Regression,0.578492153,1.191285279,0.738538944
+dconvert,jpeg-small.csv,XGBoost,0.510943772,1.169920851,0.664471268
+dconvert,png-large.csv,Linear Regression,0.338847576,2.118131544,0.433756771
+dconvert,png-large.csv,XGBoost,0.085961084,0.60371408,0.11220172
+dconvert,png-large.csv,Linear Regression,0.326369805,2.094455229,0.413187607
+dconvert,png-large.csv,XGBoost,0.085039323,0.584994187,0.111911762
+dconvert,png-large.csv,Linear Regression,0.329141551,2.006088277,0.41661899
+dconvert,png-large.csv,XGBoost,0.083882014,0.587668058,0.110320296
+dconvert,png-large.csv,Linear Regression,0.333204041,2.231814682,0.427704752
+dconvert,png-large.csv,XGBoost,0.083982841,0.670120083,0.109669653
+dconvert,png-large.csv,Linear Regression,0.336401765,1.828514552,0.427388006
+dconvert,png-large.csv,XGBoost,0.084868087,0.549532802,0.112958486
+dconvert,png-medium.csv,Linear Regression,0.280213294,0.860460445,0.354558713
+dconvert,png-medium.csv,XGBoost,0.188539643,0.64416143,0.239533731
+dconvert,png-medium.csv,Linear Regression,0.280575775,0.896829965,0.3516064
+dconvert,png-medium.csv,XGBoost,0.195079696,0.697733623,0.246877408
+dconvert,png-medium.csv,Linear Regression,0.276572957,0.842892596,0.348167419
+dconvert,png-medium.csv,XGBoost,0.19167738,0.624888074,0.241057616
+dconvert,png-medium.csv,Linear Regression,0.278859381,0.907110383,0.350878796
+dconvert,png-medium.csv,XGBoost,0.192411899,0.689010235,0.244771902
+dconvert,png-medium.csv,Linear Regression,0.278689205,0.817259605,0.355308242
+dconvert,png-medium.csv,XGBoost,0.191415053,0.612390277,0.243193584
+dconvert,png-small.csv,Linear Regression,0.454834926,0.897704801,0.6112803
+dconvert,png-small.csv,XGBoost,0.431162231,0.912263783,0.580782502
+dconvert,png-small.csv,Linear Regression,0.45489348,0.906437644,0.604422371
+dconvert,png-small.csv,XGBoost,0.424328788,0.924553838,0.5689772
+dconvert,png-small.csv,Linear Regression,0.451396965,0.903640747,0.586962604
+dconvert,png-small.csv,XGBoost,0.418652351,0.914085146,0.551703831
+dconvert,png-small.csv,Linear Regression,0.449043619,0.961971059,0.590240288
+dconvert,png-small.csv,XGBoost,0.426530147,0.984718589,0.565412388
+dconvert,png-small.csv,Linear Regression,0.444379777,0.896018474,0.598001851
+dconvert,png-small.csv,XGBoost,0.42016961,0.937615769,0.572021461
+dconvert,psd-large.csv,Linear Regression,0.040006552,0.078972127,0.066467444
+dconvert,psd-large.csv,XGBoost,0.041243854,0.08122411,0.068622026
+dconvert,psd-large.csv,Linear Regression,0.039525925,0.075560388,0.064282979
+dconvert,psd-large.csv,XGBoost,0.039955587,0.076624944,0.066178887
+dconvert,psd-large.csv,Linear Regression,0.04030793,0.076550597,0.065377052
+dconvert,psd-large.csv,XGBoost,0.039814474,0.075982361,0.066294953
+dconvert,psd-large.csv,Linear Regression,0.039014701,0.077397244,0.062308
+dconvert,psd-large.csv,XGBoost,0.039485412,0.077839347,0.064187253
+dconvert,psd-large.csv,Linear Regression,0.040102945,0.076317522,0.067199239
+dconvert,psd-large.csv,XGBoost,0.040985355,0.07779825,0.069596506
+dconvert,psd-medium.csv,Linear Regression,0.358182204,1.601607835,0.47956258
+dconvert,psd-medium.csv,XGBoost,0.155779718,0.692272248,0.202273777
+dconvert,psd-medium.csv,Linear Regression,0.354016174,1.527151403,0.466027926
+dconvert,psd-medium.csv,XGBoost,0.161792142,0.715743503,0.205512833
+dconvert,psd-medium.csv,Linear Regression,0.354746411,1.657083652,0.467390402
+dconvert,psd-medium.csv,XGBoost,0.158988316,0.739967304,0.205184953
+dconvert,psd-medium.csv,Linear Regression,0.363405282,1.674970594,0.482880275
+dconvert,psd-medium.csv,XGBoost,0.157738902,0.751456813,0.201221294
+dconvert,psd-medium.csv,Linear Regression,0.367537558,1.659925077,0.48495094
+dconvert,psd-medium.csv,XGBoost,0.160363606,0.734911818,0.206151222
+dconvert,psd-small.csv,Linear Regression,0.474156922,2.029548006,0.593633811
+dconvert,psd-small.csv,XGBoost,0.461187951,2.165300208,0.583195428
+dconvert,psd-small.csv,Linear Regression,0.471728555,2.015240833,0.59053589
+dconvert,psd-small.csv,XGBoost,0.461396001,2.134440576,0.582636159
+dconvert,psd-small.csv,Linear Regression,0.47945353,1.801296953,0.596771812
+dconvert,psd-small.csv,XGBoost,0.460902615,1.894259662,0.582604108
+dconvert,psd-small.csv,Linear Regression,0.469720612,1.821897774,0.588865056
+dconvert,psd-small.csv,XGBoost,0.451745614,1.920140842,0.574656957
+dconvert,psd-small.csv,Linear Regression,0.492688893,2.003118463,0.613528575
+dconvert,psd-small.csv,XGBoost,0.473774794,2.022995203,0.600725982
+dconvert,svg-large.csv,Linear Regression,0.790214487,1.008396772,1.028003839
+dconvert,svg-large.csv,XGBoost,0.830313351,1.223629569,1.078115729
+dconvert,svg-large.csv,Linear Regression,0.798967958,1.014145636,1.003504811
+dconvert,svg-large.csv,XGBoost,0.840705532,1.229120777,1.064818556
+dconvert,svg-large.csv,Linear Regression,0.77960527,0.999593097,1.017042082
+dconvert,svg-large.csv,XGBoost,0.810116775,1.18380283,1.06490329
+dconvert,svg-large.csv,Linear Regression,0.772684661,1.013321549,0.979989303
+dconvert,svg-large.csv,XGBoost,0.804890622,1.209724399,1.024977111
+dconvert,svg-large.csv,Linear Regression,0.796350788,0.996246573,1.03026512
+dconvert,svg-large.csv,XGBoost,0.817594749,1.177125954,1.059817289
+dconvert,svg-medium.csv,Linear Regression,0.623490829,1.344077554,0.780896641
+dconvert,svg-medium.csv,XGBoost,0.641701924,1.406433286,0.807725184
+dconvert,svg-medium.csv,Linear Regression,0.633128907,1.32973997,0.791207681
+dconvert,svg-medium.csv,XGBoost,0.650388573,1.408800537,0.814621025
+dconvert,svg-medium.csv,Linear Regression,0.623260874,1.315085711,0.781206521
+dconvert,svg-medium.csv,XGBoost,0.626083973,1.336371215,0.790958606
+dconvert,svg-medium.csv,Linear Regression,0.623075522,1.364290828,0.781251805
+dconvert,svg-medium.csv,XGBoost,0.63688292,1.423463652,0.798099189
+dconvert,svg-medium.csv,Linear Regression,0.640361127,1.371085498,0.800250227
+dconvert,svg-medium.csv,XGBoost,0.649308652,1.418658484,0.818726969
+dconvert,svg-small.csv,Linear Regression,0.421143398,0.736416367,0.527584587
+dconvert,svg-small.csv,XGBoost,0.261569932,0.542919873,0.330148794
+dconvert,svg-small.csv,Linear Regression,0.404338488,0.683834826,0.506788613
+dconvert,svg-small.csv,XGBoost,0.264859561,0.555243373,0.332023199
+dconvert,svg-small.csv,Linear Regression,0.395146129,0.740471318,0.497998269
+dconvert,svg-small.csv,XGBoost,0.261300369,0.591578637,0.333245607
+dconvert,svg-small.csv,Linear Regression,0.406082307,0.727364421,0.508773322
+dconvert,svg-small.csv,XGBoost,0.264576551,0.59950391,0.332814022
+dconvert,svg-small.csv,Linear Regression,0.411841684,0.731930175,0.513192882
+dconvert,svg-small.csv,XGBoost,0.261690568,0.550937206,0.329175771
+h2,smallbank-1.csv,Linear Regression,0.353959636,1.202877075,0.430062018
+h2,smallbank-1.csv,XGBoost,0.229681301,1.033914149,0.300634765
+h2,smallbank-1.csv,Linear Regression,0.362173441,1.511467051,0.435521949
+h2,smallbank-1.csv,XGBoost,0.234955696,1.93250696,0.305401362
+h2,smallbank-1.csv,Linear Regression,0.36337289,1.921217869,0.439077374
+h2,smallbank-1.csv,XGBoost,0.239258338,1.29560478,0.310208278
+h2,smallbank-1.csv,Linear Regression,0.361063992,2.281668688,0.430323889
+h2,smallbank-1.csv,XGBoost,0.226892021,4.070784953,0.296625545
+h2,smallbank-1.csv,Linear Regression,0.362725353,1.650358454,0.43402173
+h2,smallbank-1.csv,XGBoost,0.237415367,1.379680082,0.305104754
+h2,smallbank-10.csv,Linear Regression,0.256195733,0.872073808,0.317204965
+h2,smallbank-10.csv,XGBoost,0.124561171,0.340922058,0.168220938
+h2,smallbank-10.csv,Linear Regression,0.266283679,0.995308052,0.319292698
+h2,smallbank-10.csv,XGBoost,0.121164416,0.33819671,0.162724332
+h2,smallbank-10.csv,Linear Regression,0.25930097,1.118605373,0.310822893
+h2,smallbank-10.csv,XGBoost,0.121093278,0.860819345,0.162959854
+h2,smallbank-10.csv,Linear Regression,0.267651455,1.802273549,0.325935816
+h2,smallbank-10.csv,XGBoost,0.126695577,0.407684794,0.172936545
+h2,smallbank-10.csv,Linear Regression,0.271458381,0.88760187,0.333773131
+h2,smallbank-10.csv,XGBoost,0.122901632,0.302542158,0.167240857
+h2,tpcc-2.csv,Linear Regression,0.364053514,1.694559878,0.451874371
+h2,tpcc-2.csv,XGBoost,0.242850129,1.734388831,0.308903211
+h2,tpcc-2.csv,Linear Regression,0.372377239,2.118047501,0.460282141
+h2,tpcc-2.csv,XGBoost,0.25355928,1.323907152,0.319477043
+h2,tpcc-2.csv,Linear Regression,0.376949142,1.605060138,0.463088443
+h2,tpcc-2.csv,XGBoost,0.249150239,1.277777798,0.320675186
+h2,tpcc-2.csv,Linear Regression,0.369770908,1.510762763,0.459986456
+h2,tpcc-2.csv,XGBoost,0.245351691,1.949278427,0.30893299
+h2,tpcc-2.csv,Linear Regression,0.376504041,1.153010835,0.466946307
+h2,tpcc-2.csv,XGBoost,0.242224026,0.834905921,0.30413341
+h2,tpcc-8.csv,Linear Regression,0.615706243,2.692959205,0.930617196
+h2,tpcc-8.csv,XGBoost,0.665077353,1.835098039,1.097141474
+h2,tpcc-8.csv,Linear Regression,0.627532111,0.997209356,0.950515726
+h2,tpcc-8.csv,XGBoost,0.684215198,1.451432149,1.115866694
+h2,tpcc-8.csv,Linear Regression,0.644006069,1.342065227,0.967832919
+h2,tpcc-8.csv,XGBoost,0.63847608,2.794370101,1.047495586
+h2,tpcc-8.csv,Linear Regression,0.641721997,1.223693305,0.945598426
+h2,tpcc-8.csv,XGBoost,0.672516292,1.415935173,1.078898579
+h2,tpcc-8.csv,Linear Regression,0.623272858,1.137544781,0.941101254
+h2,tpcc-8.csv,XGBoost,0.680189041,1.503317268,1.14509988
+h2,voter-16.csv,Linear Regression,0.284389007,1.561831183,0.319942818
+h2,voter-16.csv,XGBoost,0.067766932,0.356190878,0.091689852
+h2,voter-16.csv,Linear Regression,0.294105416,1.44727391,0.327520199
+h2,voter-16.csv,XGBoost,0.07052406,0.358033123,0.091750637
+h2,voter-16.csv,Linear Regression,0.296209116,1.362572297,0.328296438
+h2,voter-16.csv,XGBoost,0.06706185,0.374100497,0.089489897
+h2,voter-16.csv,Linear Regression,0.2921646,1.279931278,0.323925475
+h2,voter-16.csv,XGBoost,0.070495093,0.334358387,0.09972601
+h2,voter-16.csv,Linear Regression,0.293287652,2.019088176,0.324433824
+h2,voter-16.csv,XGBoost,0.071647609,0.57836473,0.094895762
+h2,voter-2.csv,Linear Regression,0.292343392,2.114674501,0.330687249
+h2,voter-2.csv,XGBoost,0.066024557,0.280029834,0.096654225
+h2,voter-2.csv,Linear Regression,0.303988529,7.099641973,0.33645328
+h2,voter-2.csv,XGBoost,0.067330986,1.063374043,0.092686897
+h2,voter-2.csv,Linear Regression,0.308976035,2.484927489,0.345905809
+h2,voter-2.csv,XGBoost,0.070113826,0.363456567,0.100620389
+h2,voter-2.csv,Linear Regression,0.300641997,5.511299625,0.333550594
+h2,voter-2.csv,XGBoost,0.068299404,0.852560157,0.097611153
+h2,voter-2.csv,Linear Regression,0.309664637,2.183457229,0.339945645
+h2,voter-2.csv,XGBoost,0.068350786,0.36269474,0.094945214
+h2,ycsb-2400.csv,Linear Regression,0.607027588,3.178449874,0.734860134
+h2,ycsb-2400.csv,XGBoost,0.273296047,1.660492027,0.340944673
+h2,ycsb-2400.csv,Linear Regression,0.60380868,8.5678151,0.730899116
+h2,ycsb-2400.csv,XGBoost,0.274519046,4.681715454,0.34902729
+h2,ycsb-2400.csv,Linear Regression,0.596952473,4.037655579,0.741384119
+h2,ycsb-2400.csv,XGBoost,0.284502091,2.143721968,0.362544933
+h2,ycsb-2400.csv,Linear Regression,0.604058806,4.907851678,0.764091661
+h2,ycsb-2400.csv,XGBoost,0.274629201,2.482426162,0.350172578
+h2,ycsb-2400.csv,Linear Regression,0.627962028,8.945020729,0.792678497
+h2,ycsb-2400.csv,XGBoost,0.280902123,4.534508496,0.35461789
+h2,ycsb-600.csv,Linear Regression,0.532901264,3.833954721,0.658357278
+h2,ycsb-600.csv,XGBoost,0.232017917,2.691923569,0.308018266
+h2,ycsb-600.csv,Linear Regression,0.538468614,2.130274572,0.655372889
+h2,ycsb-600.csv,XGBoost,0.2247781,1.803839621,0.301149787
+h2,ycsb-600.csv,Linear Regression,0.517173081,2.190525717,0.640775015
+h2,ycsb-600.csv,XGBoost,0.240807539,1.433484603,0.32234173
+h2,ycsb-600.csv,Linear Regression,0.512069635,1.263063178,0.643363719
+h2,ycsb-600.csv,XGBoost,0.228932865,0.857667228,0.305698502
+h2,ycsb-600.csv,Linear Regression,0.536433376,2.071269689,0.678905448
+h2,ycsb-600.csv,XGBoost,0.235471601,1.460772718,0.312118084
+jump3r,beethoven.wav.csv,Linear Regression,0.386301361,3.006617215,0.504400703
+jump3r,beethoven.wav.csv,XGBoost,0.276052724,1.321976693,0.398776846
+jump3r,beethoven.wav.csv,Linear Regression,0.399421895,2.918320933,0.516815937
+jump3r,beethoven.wav.csv,XGBoost,0.289716785,2.121135188,0.41437881
+jump3r,beethoven.wav.csv,Linear Regression,0.40101272,1.948435117,0.513043113
+jump3r,beethoven.wav.csv,XGBoost,0.282580853,1.020954409,0.406940765
+jump3r,beethoven.wav.csv,Linear Regression,0.395845965,4.164361379,0.509600856
+jump3r,beethoven.wav.csv,XGBoost,0.281088072,2.308246999,0.406463011
+jump3r,beethoven.wav.csv,Linear Regression,0.393039781,4.758404921,0.506021366
+jump3r,beethoven.wav.csv,XGBoost,0.276370352,1.847089488,0.399239258
+jump3r,dual-channel.wav.csv,Linear Regression,0.361477425,2.459683813,0.504402294
+jump3r,dual-channel.wav.csv,XGBoost,0.253704583,1.921289489,0.371151352
+jump3r,dual-channel.wav.csv,Linear Regression,0.38969343,3.379772541,0.544666486
+jump3r,dual-channel.wav.csv,XGBoost,0.270251026,2.322944893,0.383993786
+jump3r,dual-channel.wav.csv,Linear Regression,0.368566559,3.544291484,0.506386156
+jump3r,dual-channel.wav.csv,XGBoost,0.268375645,2.617430598,0.389736656
+jump3r,dual-channel.wav.csv,Linear Regression,0.373558843,3.582417272,0.521263956
+jump3r,dual-channel.wav.csv,XGBoost,0.270428557,2.478286272,0.390171267
+jump3r,dual-channel.wav.csv,Linear Regression,0.370633486,2.508819399,0.51288502
+jump3r,dual-channel.wav.csv,XGBoost,0.260098263,1.873095217,0.381993498
+jump3r,helix.wav.csv,Linear Regression,0.350151024,1.875971524,0.516495241
+jump3r,helix.wav.csv,XGBoost,0.270235766,1.521643976,0.439380146
+jump3r,helix.wav.csv,Linear Regression,0.373383163,1.581781614,0.505128762
+jump3r,helix.wav.csv,XGBoost,0.285566275,1.127448022,0.419667257
+jump3r,helix.wav.csv,Linear Regression,0.366863966,1.555256949,0.531866418
+jump3r,helix.wav.csv,XGBoost,0.279216574,1.05110272,0.426912249
+jump3r,helix.wav.csv,Linear Regression,0.361927966,1.354860508,0.529401183
+jump3r,helix.wav.csv,XGBoost,0.283261948,1.004097504,0.436934115
+jump3r,helix.wav.csv,Linear Regression,0.355468546,1.717116609,0.480574596
+jump3r,helix.wav.csv,XGBoost,0.270138045,1.043441773,0.409258335
+jump3r,single-channel.wav.csv,Linear Regression,0.365985045,2.359418879,0.479652799
+jump3r,single-channel.wav.csv,XGBoost,0.282765411,1.489009225,0.392619364
+jump3r,single-channel.wav.csv,Linear Regression,0.378583523,2.847882277,0.498258289
+jump3r,single-channel.wav.csv,XGBoost,0.299868002,1.816503618,0.416408979
+jump3r,single-channel.wav.csv,Linear Regression,0.376585123,2.542688789,0.497360999
+jump3r,single-channel.wav.csv,XGBoost,0.28916171,1.578815738,0.403388793
+jump3r,single-channel.wav.csv,Linear Regression,0.36990147,1.984387958,0.493135126
+jump3r,single-channel.wav.csv,XGBoost,0.292866542,1.362225827,0.410885357
+jump3r,single-channel.wav.csv,Linear Regression,0.369184354,2.336789751,0.482086622
+jump3r,single-channel.wav.csv,XGBoost,0.281449323,1.44812152,0.399002606
+jump3r,speech.wav.csv,Linear Regression,0.289592069,1.924354698,0.37128773
+jump3r,speech.wav.csv,XGBoost,0.222808475,0.892820993,0.307400362
+jump3r,speech.wav.csv,Linear Regression,0.302169596,1.833123487,0.381088596
+jump3r,speech.wav.csv,XGBoost,0.231487186,1.038006711,0.317107917
+jump3r,speech.wav.csv,Linear Regression,0.294350401,1.459090769,0.368915874
+jump3r,speech.wav.csv,XGBoost,0.219542796,0.703081927,0.301714963
+jump3r,speech.wav.csv,Linear Regression,0.295141156,1.620702248,0.366658174
+jump3r,speech.wav.csv,XGBoost,0.222974164,0.793186366,0.307217588
+jump3r,speech.wav.csv,Linear Regression,0.294416313,2.170569559,0.37153244
+jump3r,speech.wav.csv,XGBoost,0.222130684,0.846216797,0.305592933
+jump3r,sweep.wav.csv,Linear Regression,0.322421006,1.272436114,0.410571456
+jump3r,sweep.wav.csv,XGBoost,0.251703788,0.884133512,0.351718872
+jump3r,sweep.wav.csv,Linear Regression,0.334479182,1.379104595,0.422993162
+jump3r,sweep.wav.csv,XGBoost,0.261923823,0.926257789,0.361121314
+jump3r,sweep.wav.csv,Linear Regression,0.332839081,1.381710664,0.421568666
+jump3r,sweep.wav.csv,XGBoost,0.25123857,0.90221547,0.348619571
+jump3r,sweep.wav.csv,Linear Regression,0.326942275,1.357094338,0.411084351
+jump3r,sweep.wav.csv,XGBoost,0.247073697,0.841868464,0.34707144
+jump3r,sweep.wav.csv,Linear Regression,0.323056419,1.272625958,0.409503507
+jump3r,sweep.wav.csv,XGBoost,0.243560401,0.844049327,0.336011306
+kanzi,ambivert.csv,Linear Regression,0.443665172,1.448058445,0.725756903
+kanzi,ambivert.csv,XGBoost,0.026436789,0.209515712,0.051932462
+kanzi,ambivert.csv,Linear Regression,0.468699063,1.872390941,0.760504235
+kanzi,ambivert.csv,XGBoost,0.027781808,0.240198175,0.061049762
+kanzi,ambivert.csv,Linear Regression,0.464239904,1.464388577,0.730945516
+kanzi,ambivert.csv,XGBoost,0.025068279,0.115193349,0.04106352
+kanzi,ambivert.csv,Linear Regression,0.458105236,1.471517448,0.751844974
+kanzi,ambivert.csv,XGBoost,0.02820763,0.128943621,0.082399071
+kanzi,ambivert.csv,Linear Regression,0.447925127,1.726747269,0.712089672
+kanzi,ambivert.csv,XGBoost,0.024382863,0.140822182,0.040368884
+kanzi,artificl.csv,Linear Regression,0.536620509,1.688599358,0.789839285
+kanzi,artificl.csv,XGBoost,0.050501738,0.196137579,0.103209211
+kanzi,artificl.csv,Linear Regression,0.579360134,1.703137957,0.859142941
+kanzi,artificl.csv,XGBoost,0.055301185,0.200896992,0.113808975
+kanzi,artificl.csv,Linear Regression,0.55617886,1.825663355,0.803926604
+kanzi,artificl.csv,XGBoost,0.056668899,0.196356285,0.122592798
+kanzi,artificl.csv,Linear Regression,0.559532194,1.649672462,0.832119991
+kanzi,artificl.csv,XGBoost,0.055840101,0.189685642,0.122339026
+kanzi,artificl.csv,Linear Regression,0.556462913,1.784854365,0.80426881
+kanzi,artificl.csv,XGBoost,0.053881955,0.205503467,0.113736604
+kanzi,deepfield.csv,Linear Regression,0.492637277,2.188944314,0.760290032
+kanzi,deepfield.csv,XGBoost,0.020853946,0.132581506,0.046682267
+kanzi,deepfield.csv,Linear Regression,0.51722701,3.106363975,0.793235063
+kanzi,deepfield.csv,XGBoost,0.023849106,0.149489608,0.053498584
+kanzi,deepfield.csv,Linear Regression,0.501919009,2.965585313,0.752664106
+kanzi,deepfield.csv,XGBoost,0.020778454,0.133840996,0.037303327
+kanzi,deepfield.csv,Linear Regression,0.50046185,2.954544019,0.780132397
+kanzi,deepfield.csv,XGBoost,0.02406737,0.19312272,0.081984055
+kanzi,deepfield.csv,Linear Regression,0.497995999,2.439035786,0.745866683
+kanzi,deepfield.csv,XGBoost,0.020834502,0.13293949,0.038562767
+kanzi,enwik8.csv,Linear Regression,0.500240164,2.503969203,0.798606763
+kanzi,enwik8.csv,XGBoost,0.018505418,0.176590276,0.041329741
+kanzi,enwik8.csv,Linear Regression,0.530297584,2.879635717,0.840425589
+kanzi,enwik8.csv,XGBoost,0.021030573,0.179459402,0.053641455
+kanzi,enwik8.csv,Linear Regression,0.518985025,3.567073937,0.804579389
+kanzi,enwik8.csv,XGBoost,0.018135978,0.342484314,0.035385831
+kanzi,enwik8.csv,Linear Regression,0.514252353,3.104993507,0.830086801
+kanzi,enwik8.csv,XGBoost,0.022585358,0.14635083,0.084167836
+kanzi,enwik8.csv,Linear Regression,0.507802494,3.334520423,0.779714862
+kanzi,enwik8.csv,XGBoost,0.019078197,0.292270893,0.036171684
+kanzi,fannie_mae_500k.csv,Linear Regression,0.527909787,1.331471056,0.831076798
+kanzi,fannie_mae_500k.csv,XGBoost,0.015647469,0.050790609,0.04209311
+kanzi,fannie_mae_500k.csv,Linear Regression,0.560291236,1.519680303,0.87162424
+kanzi,fannie_mae_500k.csv,XGBoost,0.016770503,0.084555596,0.04815315
+kanzi,fannie_mae_500k.csv,Linear Regression,0.548209671,1.64209919,0.837216638
+kanzi,fannie_mae_500k.csv,XGBoost,0.01549481,0.111279835,0.033864751
+kanzi,fannie_mae_500k.csv,Linear Regression,0.545993372,1.529472954,0.866484813
+kanzi,fannie_mae_500k.csv,XGBoost,0.017922603,0.066153538,0.069524406
+kanzi,fannie_mae_500k.csv,Linear Regression,0.537767599,2.834546193,0.811761294
+kanzi,fannie_mae_500k.csv,XGBoost,0.015590077,0.103392326,0.036416688
+kanzi,large.csv,Linear Regression,0.498910254,5.197872134,0.794945867
+kanzi,large.csv,XGBoost,0.018650173,0.2612141,0.037909961
+kanzi,large.csv,Linear Regression,0.529444475,4.883985254,0.835094713
+kanzi,large.csv,XGBoost,0.021099662,0.201224913,0.050858481
+kanzi,large.csv,Linear Regression,0.520657473,7.031279591,0.80442188
+kanzi,large.csv,XGBoost,0.018914405,0.216409087,0.034362296
+kanzi,large.csv,Linear Regression,0.515970438,5.407951623,0.830798831
+kanzi,large.csv,XGBoost,0.022939436,0.227024951,0.08015253
+kanzi,large.csv,Linear Regression,0.509330934,8.513010889,0.778271913
+kanzi,large.csv,XGBoost,0.019451135,0.254113345,0.035372179
+kanzi,misc.csv,Linear Regression,0.467223881,5.18792346,0.717388433
+kanzi,misc.csv,XGBoost,0.038678241,0.315285174,0.063558367
+kanzi,misc.csv,Linear Regression,0.499721413,4.399714451,0.751462942
+kanzi,misc.csv,XGBoost,0.040836713,0.345465286,0.074289735
+kanzi,misc.csv,Linear Regression,0.491400536,3.380032164,0.733232128
+kanzi,misc.csv,XGBoost,0.039650862,0.22861641,0.069619296
+kanzi,misc.csv,Linear Regression,0.487156973,3.87193722,0.750301268
+kanzi,misc.csv,XGBoost,0.041362896,0.293846424,0.08595911
+kanzi,misc.csv,Linear Regression,0.48290197,4.742579903,0.710359565
+kanzi,misc.csv,XGBoost,0.039104441,0.370244139,0.070906628
+kanzi,silesia.csv,Linear Regression,0.501676208,3.40142637,0.801469421
+kanzi,silesia.csv,XGBoost,0.017223587,0.12413709,0.039600368
+kanzi,silesia.csv,Linear Regression,0.53177984,4.769558895,0.83868338
+kanzi,silesia.csv,XGBoost,0.017982603,0.133033257,0.04722398
+kanzi,silesia.csv,Linear Regression,0.522775369,3.719900275,0.809941935
+kanzi,silesia.csv,XGBoost,0.017326628,0.158325075,0.032718164
+kanzi,silesia.csv,Linear Regression,0.517795011,9.342755189,0.833167184
+kanzi,silesia.csv,XGBoost,0.020290736,0.326817623,0.066630103
+kanzi,silesia.csv,Linear Regression,0.509825655,9.847519735,0.783130241
+kanzi,silesia.csv,XGBoost,0.017652556,0.268691565,0.034941005
+kanzi,vmlinux.csv,Linear Regression,0.550203696,2.880311408,0.751158477
+kanzi,vmlinux.csv,XGBoost,0.028576265,0.077027787,0.072712999
+kanzi,vmlinux.csv,Linear Regression,0.573700793,2.121731294,0.777686563
+kanzi,vmlinux.csv,XGBoost,0.027066836,0.065005395,0.07176879
+kanzi,vmlinux.csv,Linear Regression,0.56145955,2.384351888,0.766310305
+kanzi,vmlinux.csv,XGBoost,0.026554074,0.065652061,0.070812797
+kanzi,vmlinux.csv,Linear Regression,0.550311046,3.155706992,0.753069456
+kanzi,vmlinux.csv,XGBoost,0.027465484,0.07558771,0.072584474
+kanzi,vmlinux.csv,Linear Regression,0.570248052,2.168748763,0.780810001
+kanzi,vmlinux.csv,XGBoost,0.026436248,0.048579226,0.074200247
+lrzip,ambivert.wav.tar.csv,Linear Regression,0.767846733,1.075594357,1.181605032
+lrzip,ambivert.wav.tar.csv,XGBoost,1.205126038,2.110639462,1.786071658
+lrzip,ambivert.wav.tar.csv,Linear Regression,0.591444753,0.962382789,1.031490854
+lrzip,ambivert.wav.tar.csv,XGBoost,0.728061254,1.447301038,1.173974023
+lrzip,ambivert.wav.tar.csv,Linear Regression,0.584915761,1.005460448,0.910283172
+lrzip,ambivert.wav.tar.csv,XGBoost,0.96750136,2.068273444,1.459373309
+lrzip,ambivert.wav.tar.csv,Linear Regression,0.699814593,1.073894244,1.09593083
+lrzip,ambivert.wav.tar.csv,XGBoost,1.004199398,1.846276948,1.513315425
+lrzip,ambivert.wav.tar.csv,Linear Regression,0.807902048,0.852402273,1.332439501
+lrzip,ambivert.wav.tar.csv,XGBoost,1.037076648,1.444096199,1.570698137
+lrzip,artificl.tar.csv,Linear Regression,0.896927839,0.887766296,1.039341242
+lrzip,artificl.tar.csv,XGBoost,0.868050032,0.85612895,1.073976152
+lrzip,artificl.tar.csv,Linear Regression,0.803266558,0.800407849,0.869728782
+lrzip,artificl.tar.csv,XGBoost,0.848096711,0.84523512,1.131639587
+lrzip,artificl.tar.csv,Linear Regression,0.842287032,0.841615333,0.945804227
+lrzip,artificl.tar.csv,XGBoost,0.790610518,0.795743757,1.025283513
+lrzip,artificl.tar.csv,Linear Regression,0.808658141,0.812921068,0.949092171
+lrzip,artificl.tar.csv,XGBoost,0.819695934,0.823476567,1.075470345
+lrzip,artificl.tar.csv,Linear Regression,0.876469369,0.877753997,1.01993749
+lrzip,artificl.tar.csv,XGBoost,1.033258225,1.040439167,1.278621364
+lrzip,deepfield.tar.csv,Linear Regression,0.783875345,1.109653711,1.19039083
+lrzip,deepfield.tar.csv,XGBoost,1.285523411,2.193728922,1.919032693
+lrzip,deepfield.tar.csv,Linear Regression,0.582950203,0.958920404,0.986719194
+lrzip,deepfield.tar.csv,XGBoost,0.728331043,1.475102997,1.139080067
+lrzip,deepfield.tar.csv,Linear Regression,0.616115851,0.984207439,0.990793698
+lrzip,deepfield.tar.csv,XGBoost,0.870980852,1.77178032,1.338773072
+lrzip,deepfield.tar.csv,Linear Regression,0.710177789,1.089605218,1.110199223
+lrzip,deepfield.tar.csv,XGBoost,0.897684164,1.590357103,1.354022249
+lrzip,deepfield.tar.csv,Linear Regression,0.810298092,0.852960046,1.321451251
+lrzip,deepfield.tar.csv,XGBoost,1.048990207,1.459107837,1.577601637
+lrzip,enwik8.tar.csv,Linear Regression,0.79168994,0.997233802,1.162531613
+lrzip,enwik8.tar.csv,XGBoost,1.196979237,1.838482616,1.714840464
+lrzip,enwik8.tar.csv,Linear Regression,0.654783373,0.952539421,1.006802515
+lrzip,enwik8.tar.csv,XGBoost,0.790944836,1.237582044,1.186292462
+lrzip,enwik8.tar.csv,Linear Regression,0.67226859,0.920854472,0.988260814
+lrzip,enwik8.tar.csv,XGBoost,0.854400366,1.497978545,1.211432857
+lrzip,enwik8.tar.csv,Linear Regression,0.760192912,1.031895063,1.123704004
+lrzip,enwik8.tar.csv,XGBoost,0.968771187,1.441873271,1.386960206
+lrzip,enwik8.tar.csv,Linear Regression,0.868025526,0.849498102,1.300600741
+lrzip,enwik8.tar.csv,XGBoost,1.02887638,1.246136222,1.483767822
+lrzip,fannie_mae_500k.tar.csv,Linear Regression,0.806181144,1.843216611,1.183542195
+lrzip,fannie_mae_500k.tar.csv,XGBoost,1.246652161,3.700481381,1.729885579
+lrzip,fannie_mae_500k.tar.csv,Linear Regression,0.673524658,1.503554676,1.023687364
+lrzip,fannie_mae_500k.tar.csv,XGBoost,0.876682844,3.261517671,1.273989081
+lrzip,fannie_mae_500k.tar.csv,Linear Regression,0.665252786,1.346201232,0.980412517
+lrzip,fannie_mae_500k.tar.csv,XGBoost,0.906375685,3.733005499,1.271144943
+lrzip,fannie_mae_500k.tar.csv,Linear Regression,0.734267525,1.906338529,1.062031639
+lrzip,fannie_mae_500k.tar.csv,XGBoost,0.966809637,3.501898104,1.32978314
+lrzip,fannie_mae_500k.tar.csv,Linear Regression,0.875022767,1.124477748,1.282598513
+lrzip,fannie_mae_500k.tar.csv,XGBoost,1.025551748,2.899707707,1.443584276
+lrzip,large.tar.csv,Linear Regression,0.884326248,3.009240765,1.191085332
+lrzip,large.tar.csv,XGBoost,1.083665529,5.471275188,1.4249689
+lrzip,large.tar.csv,Linear Regression,0.70190138,2.475496134,0.983377163
+lrzip,large.tar.csv,XGBoost,1.073770639,9.027978443,1.386637258
+lrzip,large.tar.csv,Linear Regression,0.730854985,2.340190251,1.011821357
+lrzip,large.tar.csv,XGBoost,0.953476721,8.383521153,1.23049007
+lrzip,large.tar.csv,Linear Regression,0.742239153,4.155154654,1.004000611
+lrzip,large.tar.csv,XGBoost,1.023908885,9.557766765,1.341786853
+lrzip,large.tar.csv,Linear Regression,0.886743397,3.352570621,1.166021833
+lrzip,large.tar.csv,XGBoost,1.111577775,8.822715374,1.366828468
+lrzip,misc.tar.csv,Linear Regression,0.929375852,0.91457014,1.089629737
+lrzip,misc.tar.csv,XGBoost,0.961145959,0.951895448,1.177898612
+lrzip,misc.tar.csv,Linear Regression,0.800044368,0.795794844,0.882629799
+lrzip,misc.tar.csv,XGBoost,0.833864156,0.832027635,1.07386065
+lrzip,misc.tar.csv,Linear Regression,0.841254866,0.854495962,0.95242364
+lrzip,misc.tar.csv,XGBoost,0.799709149,0.821884637,1.029865389
+lrzip,misc.tar.csv,Linear Regression,0.781837405,0.843370204,0.936235733
+lrzip,misc.tar.csv,XGBoost,0.751097196,0.821187341,1.003750883
+lrzip,misc.tar.csv,Linear Regression,0.879642546,0.927835296,1.02233641
+lrzip,misc.tar.csv,XGBoost,1.014783823,1.106249991,1.245459273
+lrzip,silesia.tar.csv,Linear Regression,0.783083944,1.001594169,1.139577579
+lrzip,silesia.tar.csv,XGBoost,1.158267766,1.714797439,1.670493828
+lrzip,silesia.tar.csv,Linear Regression,0.657075064,0.94229226,1.017917082
+lrzip,silesia.tar.csv,XGBoost,0.804405693,1.255409079,1.222242757
+lrzip,silesia.tar.csv,Linear Regression,0.668381873,0.925606826,0.97459477
+lrzip,silesia.tar.csv,XGBoost,0.836512047,1.41613309,1.233152293
+lrzip,silesia.tar.csv,Linear Regression,0.751421521,1.02360316,1.095874875
+lrzip,silesia.tar.csv,XGBoost,0.951730631,1.575047887,1.336963293
+lrzip,silesia.tar.csv,Linear Regression,0.866467993,0.855417561,1.289154278
+lrzip,silesia.tar.csv,XGBoost,1.029876057,1.201136589,1.541400882
+lrzip,uiq-32.bin.csv,Linear Regression,0.775370071,1.022288516,1.080651221
+lrzip,uiq-32.bin.csv,XGBoost,1.099315203,1.715967451,1.521778346
+lrzip,uiq-32.bin.csv,Linear Regression,0.649581196,0.954857699,0.948411862
+lrzip,uiq-32.bin.csv,XGBoost,0.767154953,1.183711009,1.127224623
+lrzip,uiq-32.bin.csv,Linear Regression,0.694535548,0.910036552,1.005434074
+lrzip,uiq-32.bin.csv,XGBoost,0.903416876,1.470040577,1.290190836
+lrzip,uiq-32.bin.csv,Linear Regression,0.757951705,0.978189248,1.117351194
+lrzip,uiq-32.bin.csv,XGBoost,0.927800482,1.442510621,1.323197567
+lrzip,uiq-32.bin.csv,Linear Regression,0.871497013,0.854352241,1.276625395
+lrzip,uiq-32.bin.csv,XGBoost,1.024848196,1.182640276,1.519198376
+lrzip,uiq2-16.bin.csv,Linear Regression,0.78524304,0.93353788,1.194105832
+lrzip,uiq2-16.bin.csv,XGBoost,1.184952878,1.755440375,1.695597986
+lrzip,uiq2-16.bin.csv,Linear Regression,0.669224388,0.941008966,1.041588662
+lrzip,uiq2-16.bin.csv,XGBoost,0.825848136,1.30543123,1.267669792
+lrzip,uiq2-16.bin.csv,Linear Regression,0.649215432,0.91803335,0.942705099
+lrzip,uiq2-16.bin.csv,XGBoost,0.89265206,1.590630531,1.270162986
+lrzip,uiq2-16.bin.csv,Linear Regression,0.73825789,1.009081418,1.06316925
+lrzip,uiq2-16.bin.csv,XGBoost,0.981041838,1.569485519,1.386865275
+lrzip,uiq2-16.bin.csv,Linear Regression,0.846024518,0.857839238,1.26175091
+lrzip,uiq2-16.bin.csv,XGBoost,1.029390726,1.275582051,1.493700523
+lrzip,uiq2-4.bin.csv,Linear Regression,0.788167316,1.110726222,1.156377732
+lrzip,uiq2-4.bin.csv,XGBoost,1.1872058,1.982148201,1.763683985
+lrzip,uiq2-4.bin.csv,Linear Regression,0.630125545,1.051861487,1.003652977
+lrzip,uiq2-4.bin.csv,XGBoost,0.788419858,1.543907915,1.194725817
+lrzip,uiq2-4.bin.csv,Linear Regression,0.648046745,0.973161108,1.01544463
+lrzip,uiq2-4.bin.csv,XGBoost,0.863322172,1.752631635,1.289049525
+lrzip,uiq2-4.bin.csv,Linear Regression,0.731551734,1.160292014,1.119915341
+lrzip,uiq2-4.bin.csv,XGBoost,0.939099921,1.816133064,1.378772963
+lrzip,uiq2-4.bin.csv,Linear Regression,0.826495639,0.946730501,1.243359516
+lrzip,uiq2-4.bin.csv,XGBoost,1.058979919,1.640759846,1.510738906
+lrzip,uiq2-8.bin.csv,Linear Regression,0.787535131,0.949569655,1.188495478
+lrzip,uiq2-8.bin.csv,XGBoost,1.107252544,1.62722023,1.605584362
+lrzip,uiq2-8.bin.csv,Linear Regression,0.669125595,0.960064251,1.058353048
+lrzip,uiq2-8.bin.csv,XGBoost,0.860173257,1.462989483,1.23380961
+lrzip,uiq2-8.bin.csv,Linear Regression,0.668199377,0.905035117,1.001095119
+lrzip,uiq2-8.bin.csv,XGBoost,0.917336494,1.528767103,1.362433381
+lrzip,uiq2-8.bin.csv,Linear Regression,0.731943126,1.072108895,1.047090656
+lrzip,uiq2-8.bin.csv,XGBoost,0.946612681,1.633653519,1.360906688
+lrzip,uiq2-8.bin.csv,Linear Regression,0.843527872,0.88502269,1.240725399
+lrzip,uiq2-8.bin.csv,XGBoost,1.060150388,1.374464837,1.517202241
+lrzip,vmlinux-5.10.tar.csv,Linear Regression,0.808350488,2.532644131,1.188081868
+lrzip,vmlinux-5.10.tar.csv,XGBoost,1.179526492,5.604805727,1.721005643
+lrzip,vmlinux-5.10.tar.csv,Linear Regression,0.647393469,1.577994284,1.027202773
+lrzip,vmlinux-5.10.tar.csv,XGBoost,0.848584775,4.356981011,1.253403171
+lrzip,vmlinux-5.10.tar.csv,Linear Regression,0.643772161,1.264413077,0.974108364
+lrzip,vmlinux-5.10.tar.csv,XGBoost,0.872663937,3.345277937,1.26959042
+lrzip,vmlinux-5.10.tar.csv,Linear Regression,0.72941714,1.800884975,1.063916246
+lrzip,vmlinux-5.10.tar.csv,XGBoost,1.017642914,3.987414067,1.438224564
+lrzip,vmlinux-5.10.tar.csv,Linear Regression,0.858526345,1.147869296,1.282077252
+lrzip,vmlinux-5.10.tar.csv,XGBoost,1.038571005,3.669525971,1.460292807
+x264,blue_sky_1080p25_short.y4m.csv,Linear Regression,0.324204055,1.193473222,0.416718289
+x264,blue_sky_1080p25_short.y4m.csv,XGBoost,0.120010577,0.402326247,0.265977563
+x264,blue_sky_1080p25_short.y4m.csv,Linear Regression,0.312390266,1.123565753,0.408088884
+x264,blue_sky_1080p25_short.y4m.csv,XGBoost,0.116254098,0.336320703,0.262356934
+x264,blue_sky_1080p25_short.y4m.csv,Linear Regression,0.323193657,1.055615711,0.423315796
+x264,blue_sky_1080p25_short.y4m.csv,XGBoost,0.120521445,0.346748749,0.256875675
+x264,blue_sky_1080p25_short.y4m.csv,Linear Regression,0.313203605,1.044092861,0.406230688
+x264,blue_sky_1080p25_short.y4m.csv,XGBoost,0.122058711,0.390633648,0.272094791
+x264,blue_sky_1080p25_short.y4m.csv,Linear Regression,0.300201354,1.035910073,0.382731303
+x264,blue_sky_1080p25_short.y4m.csv,XGBoost,0.108050305,0.254626785,0.251066693
+x264,Johnny_1280x720_60_short.y4m.csv,Linear Regression,0.336469337,2.84938688,0.438148862
+x264,Johnny_1280x720_60_short.y4m.csv,XGBoost,0.12218477,0.958011978,0.275196204
+x264,Johnny_1280x720_60_short.y4m.csv,Linear Regression,0.324354527,1.943442732,0.428692342
+x264,Johnny_1280x720_60_short.y4m.csv,XGBoost,0.121050642,0.532964668,0.279548482
+x264,Johnny_1280x720_60_short.y4m.csv,Linear Regression,0.333027767,1.78973104,0.441083218
+x264,Johnny_1280x720_60_short.y4m.csv,XGBoost,0.124076177,0.57403032,0.266844091
+x264,Johnny_1280x720_60_short.y4m.csv,Linear Regression,0.324056812,1.695612084,0.42553503
+x264,Johnny_1280x720_60_short.y4m.csv,XGBoost,0.126751829,0.535472966,0.292867359
+x264,Johnny_1280x720_60_short.y4m.csv,Linear Regression,0.311859254,1.92446414,0.398857029
+x264,Johnny_1280x720_60_short.y4m.csv,XGBoost,0.11101389,0.557217234,0.258931427
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,Linear Regression,0.322853722,1.111405695,0.414461601
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,XGBoost,0.117790782,0.36119174,0.262669759
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,Linear Regression,0.310987615,3.762719426,0.405763592
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,XGBoost,0.116759326,1.192639827,0.262912732
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,Linear Regression,0.319750418,3.525009872,0.417841554
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,XGBoost,0.118793647,0.480675875,0.2524305
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,Linear Regression,0.311502693,0.926131894,0.403469561
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,XGBoost,0.121239338,0.330570218,0.270925872
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,Linear Regression,0.298605627,3.661446183,0.380358607
+x264,Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv,XGBoost,0.107600728,0.653771512,0.244271248
+x264,pedestrian_area_1080p25_short.y4m.csv,Linear Regression,0.316028946,0.762760635,0.408380327
+x264,pedestrian_area_1080p25_short.y4m.csv,XGBoost,0.115676173,0.281184783,0.258209507
+x264,pedestrian_area_1080p25_short.y4m.csv,Linear Regression,0.306672954,0.665346337,0.398009767
+x264,pedestrian_area_1080p25_short.y4m.csv,XGBoost,0.117755405,0.229814057,0.263943831
+x264,pedestrian_area_1080p25_short.y4m.csv,Linear Regression,0.316321568,0.631834368,0.410442987
+x264,pedestrian_area_1080p25_short.y4m.csv,XGBoost,0.119448712,0.237769169,0.255406189
+x264,pedestrian_area_1080p25_short.y4m.csv,Linear Regression,0.308397439,0.699221599,0.398594957
+x264,pedestrian_area_1080p25_short.y4m.csv,XGBoost,0.122097891,0.292429258,0.275510679
+x264,pedestrian_area_1080p25_short.y4m.csv,Linear Regression,0.292641763,0.658096691,0.375609277
+x264,pedestrian_area_1080p25_short.y4m.csv,XGBoost,0.110766951,0.200622612,0.258323159
+x264,riverbed_1080p25_short.y4m.csv,Linear Regression,0.318414364,0.665876494,0.422844645
+x264,riverbed_1080p25_short.y4m.csv,XGBoost,0.120982791,0.251044113,0.262384417
+x264,riverbed_1080p25_short.y4m.csv,Linear Regression,0.309625685,0.632771039,0.408128416
+x264,riverbed_1080p25_short.y4m.csv,XGBoost,0.124770132,0.216877209,0.281676495
+x264,riverbed_1080p25_short.y4m.csv,Linear Regression,0.320468321,0.613011763,0.423215908
+x264,riverbed_1080p25_short.y4m.csv,XGBoost,0.126022233,0.248407777,0.267987386
+x264,riverbed_1080p25_short.y4m.csv,Linear Regression,0.312224331,0.634907063,0.410976828
+x264,riverbed_1080p25_short.y4m.csv,XGBoost,0.124353756,0.253569394,0.27553934
+x264,riverbed_1080p25_short.y4m.csv,Linear Regression,0.293221706,0.622220827,0.385990595
+x264,riverbed_1080p25_short.y4m.csv,XGBoost,0.113972384,0.20363127,0.266616019
+x264,sd_bridge_close_cif_short.y4m.csv,Linear Regression,0.299188713,0.857564434,0.383890083
+x264,sd_bridge_close_cif_short.y4m.csv,XGBoost,0.104486615,0.351583423,0.222673036
+x264,sd_bridge_close_cif_short.y4m.csv,Linear Regression,0.288974944,0.724267322,0.372189171
+x264,sd_bridge_close_cif_short.y4m.csv,XGBoost,0.101987336,0.182777593,0.223422693
+x264,sd_bridge_close_cif_short.y4m.csv,Linear Regression,0.297005955,0.942769004,0.383380974
+x264,sd_bridge_close_cif_short.y4m.csv,XGBoost,0.10262005,0.394954246,0.210033388
+x264,sd_bridge_close_cif_short.y4m.csv,Linear Regression,0.292795838,0.696401587,0.373215486
+x264,sd_bridge_close_cif_short.y4m.csv,XGBoost,0.106918961,0.218687312,0.234582306
+x264,sd_bridge_close_cif_short.y4m.csv,Linear Regression,0.277022972,0.610559869,0.351011361
+x264,sd_bridge_close_cif_short.y4m.csv,XGBoost,0.09617894,0.168273937,0.216419673
+x264,sd_city_4cif_short.y4m.csv,Linear Regression,0.336937372,3.343840109,0.432472561
+x264,sd_city_4cif_short.y4m.csv,XGBoost,0.11971714,0.887850309,0.267298654
+x264,sd_city_4cif_short.y4m.csv,Linear Regression,0.329082946,2.864268228,0.424594277
+x264,sd_city_4cif_short.y4m.csv,XGBoost,0.119798581,0.808207181,0.270766598
+x264,sd_city_4cif_short.y4m.csv,Linear Regression,0.337663766,2.61246674,0.434281074
+x264,sd_city_4cif_short.y4m.csv,XGBoost,0.12126646,0.615132212,0.25882848
+x264,sd_city_4cif_short.y4m.csv,Linear Regression,0.329907182,2.728017389,0.423157352
+x264,sd_city_4cif_short.y4m.csv,XGBoost,0.126267631,0.846108631,0.290781911
+x264,sd_city_4cif_short.y4m.csv,Linear Regression,0.31333591,3.102169294,0.398518874
+x264,sd_city_4cif_short.y4m.csv,XGBoost,0.110840452,0.703278779,0.256987949
+x264,sd_crew_cif_short.y4m.csv,Linear Regression,0.311485135,0.954136195,0.403585485
+x264,sd_crew_cif_short.y4m.csv,XGBoost,0.110153943,0.391211952,0.245477988
+x264,sd_crew_cif_short.y4m.csv,Linear Regression,0.302361742,0.635712517,0.391295018
+x264,sd_crew_cif_short.y4m.csv,XGBoost,0.112276492,0.214305276,0.251074825
+x264,sd_crew_cif_short.y4m.csv,Linear Regression,0.312860608,0.628743291,0.405458842
+x264,sd_crew_cif_short.y4m.csv,XGBoost,0.113654614,0.234439488,0.242737518
+x264,sd_crew_cif_short.y4m.csv,Linear Regression,0.30389196,0.882505309,0.39177974
+x264,sd_crew_cif_short.y4m.csv,XGBoost,0.116923367,0.424839731,0.258336484
+x264,sd_crew_cif_short.y4m.csv,Linear Regression,0.287607135,0.636872422,0.37159521
+x264,sd_crew_cif_short.y4m.csv,XGBoost,0.106131212,0.192803087,0.252216487
+x264,sintel_trailer_2k_720p24_short.y4m.csv,Linear Regression,0.279597854,0.479182321,0.352131602
+x264,sintel_trailer_2k_720p24_short.y4m.csv,XGBoost,0.106407298,0.178065276,0.24026563
+x264,sintel_trailer_2k_720p24_short.y4m.csv,Linear Regression,0.269349917,0.430059216,0.340819268
+x264,sintel_trailer_2k_720p24_short.y4m.csv,XGBoost,0.101988111,0.148427224,0.226871432
+x264,sintel_trailer_2k_720p24_short.y4m.csv,Linear Regression,0.274767554,0.430095502,0.34945901
+x264,sintel_trailer_2k_720p24_short.y4m.csv,XGBoost,0.108339159,0.18195833,0.229795094
+x264,sintel_trailer_2k_720p24_short.y4m.csv,Linear Regression,0.272288487,0.43824188,0.341325509
+x264,sintel_trailer_2k_720p24_short.y4m.csv,XGBoost,0.11007876,0.174457054,0.246760025
+x264,sintel_trailer_2k_720p24_short.y4m.csv,Linear Regression,0.258117519,0.427578532,0.321860517
+x264,sintel_trailer_2k_720p24_short.y4m.csv,XGBoost,0.094760575,0.134315139,0.215797762
+xz,ambivert.wav.tar.csv,Linear Regression,0.448355739,0.890536155,0.580160151
+xz,ambivert.wav.tar.csv,XGBoost,0.019235374,0.03289353,0.046153806
+xz,ambivert.wav.tar.csv,Linear Regression,0.444554476,0.890165178,0.583741146
+xz,ambivert.wav.tar.csv,XGBoost,0.020333241,0.033216676,0.050177171
+xz,ambivert.wav.tar.csv,Linear Regression,0.446564171,0.893901834,0.583544406
+xz,ambivert.wav.tar.csv,XGBoost,0.021787276,0.035195662,0.057868638
+xz,ambivert.wav.tar.csv,Linear Regression,0.439636346,0.921968226,0.568524964
+xz,ambivert.wav.tar.csv,XGBoost,0.017084591,0.033809481,0.041759341
+xz,ambivert.wav.tar.csv,Linear Regression,0.447116673,0.983923334,0.571411161
+xz,ambivert.wav.tar.csv,XGBoost,0.017281291,0.034679362,0.039942768
+xz,artificl.tar.csv,Linear Regression,0.767861142,1.161593178,0.919186139
+xz,artificl.tar.csv,XGBoost,0.786720345,1.27267366,0.959014711
+xz,artificl.tar.csv,Linear Regression,0.748920021,1.161271041,0.890314973
+xz,artificl.tar.csv,XGBoost,0.796412669,1.325924931,0.964945364
+xz,artificl.tar.csv,Linear Regression,0.76068819,1.143258801,0.895070168
+xz,artificl.tar.csv,XGBoost,0.805033685,1.289705603,0.970822769
+xz,artificl.tar.csv,Linear Regression,0.75664649,1.223752783,0.89217372
+xz,artificl.tar.csv,XGBoost,0.77883424,1.341161061,0.954638955
+xz,artificl.tar.csv,Linear Regression,0.747635951,1.131392213,0.890948311
+xz,artificl.tar.csv,XGBoost,0.798693626,1.291705956,0.971693625
+xz,deepfield.tar.csv,Linear Regression,0.409234879,4.05980563,0.584240213
+xz,deepfield.tar.csv,XGBoost,0.026976977,0.243803867,0.046270398
+xz,deepfield.tar.csv,Linear Regression,0.418195841,4.919266401,0.581604769
+xz,deepfield.tar.csv,XGBoost,0.027615453,0.244501425,0.05516435
+xz,deepfield.tar.csv,Linear Regression,0.406167499,22.90693104,0.535624331
+xz,deepfield.tar.csv,XGBoost,0.026080752,0.399282491,0.042203032
+xz,deepfield.tar.csv,Linear Regression,0.419358963,3.92268314,0.614157865
+xz,deepfield.tar.csv,XGBoost,0.026520326,0.399775974,0.044300554
+xz,deepfield.tar.csv,Linear Regression,0.420522632,5.600397506,0.575031246
+xz,deepfield.tar.csv,XGBoost,0.024226827,0.50813401,0.037713424
+xz,enwik8.tar.csv,Linear Regression,0.485098855,1.292601014,0.638678366
+xz,enwik8.tar.csv,XGBoost,0.070394105,0.216087208,0.207164547
+xz,enwik8.tar.csv,Linear Regression,0.491678469,1.431360357,0.658445727
+xz,enwik8.tar.csv,XGBoost,0.081475104,0.229117829,0.252613702
+xz,enwik8.tar.csv,Linear Regression,0.496437864,1.272374708,0.681575164
+xz,enwik8.tar.csv,XGBoost,0.081524363,0.340145308,0.272084616
+xz,enwik8.tar.csv,Linear Regression,0.481213477,1.501407643,0.612064405
+xz,enwik8.tar.csv,XGBoost,0.063955535,0.23755136,0.190155012
+xz,enwik8.tar.csv,Linear Regression,0.489735818,1.463788485,0.651227072
+xz,enwik8.tar.csv,XGBoost,0.070033313,0.236262365,0.258617763
+xz,fannie_mae_500k.tar.csv,Linear Regression,0.511653851,3.984729182,0.619256772
+xz,fannie_mae_500k.tar.csv,XGBoost,0.015873405,0.17441524,0.025361923
+xz,fannie_mae_500k.tar.csv,Linear Regression,0.503527344,4.065777876,0.607357876
+xz,fannie_mae_500k.tar.csv,XGBoost,0.017665519,0.240314329,0.037656291
+xz,fannie_mae_500k.tar.csv,Linear Regression,0.508106866,2.521822974,0.609309354
+xz,fannie_mae_500k.tar.csv,XGBoost,0.014265402,0.166342889,0.021787229
+xz,fannie_mae_500k.tar.csv,Linear Regression,0.505658881,2.273927981,0.606886156
+xz,fannie_mae_500k.tar.csv,XGBoost,0.015457835,0.114625117,0.024633924
+xz,fannie_mae_500k.tar.csv,Linear Regression,0.496197989,2.629964641,0.590148015
+xz,fannie_mae_500k.tar.csv,XGBoost,0.014775102,0.120447595,0.025806731
+xz,large.tar.csv,Linear Regression,0.467621082,2.212418532,0.584358226
+xz,large.tar.csv,XGBoost,0.026034331,0.298260301,0.038674261
+xz,large.tar.csv,Linear Regression,0.463739614,2.902256573,0.576845127
+xz,large.tar.csv,XGBoost,0.025539309,0.402991875,0.038165688
+xz,large.tar.csv,Linear Regression,0.46990636,1.86224774,0.563690887
+xz,large.tar.csv,XGBoost,0.024611423,0.180053149,0.035027081
+xz,large.tar.csv,Linear Regression,0.466870982,2.370570485,0.589136284
+xz,large.tar.csv,XGBoost,0.024196661,0.254833384,0.034656187
+xz,large.tar.csv,Linear Regression,0.459627392,4.140265414,0.567320421
+xz,large.tar.csv,XGBoost,0.02594123,0.437538677,0.035976436
+xz,misc.tar.csv,Linear Regression,0.366860363,1.058144028,0.50985171
+xz,misc.tar.csv,XGBoost,0.096705648,0.309222324,0.252035443
+xz,misc.tar.csv,Linear Regression,0.366151182,1.05839616,0.500514014
+xz,misc.tar.csv,XGBoost,0.087388384,0.318248777,0.219137343
+xz,misc.tar.csv,Linear Regression,0.369717149,0.954849833,0.527994894
+xz,misc.tar.csv,XGBoost,0.092993478,0.232717406,0.24201237
+xz,misc.tar.csv,Linear Regression,0.353227801,0.975013709,0.48761775
+xz,misc.tar.csv,XGBoost,0.087431111,0.265007846,0.218394985
+xz,misc.tar.csv,Linear Regression,0.354095245,1.06183858,0.458883336
+xz,misc.tar.csv,XGBoost,0.082586735,0.282629598,0.192632653
+xz,silesia.tar.csv,Linear Regression,0.462517147,1.769805576,0.591007714
+xz,silesia.tar.csv,XGBoost,0.021100098,0.222451756,0.04537791
+xz,silesia.tar.csv,Linear Regression,0.46543525,3.049726209,0.594119558
+xz,silesia.tar.csv,XGBoost,0.021304771,0.272231868,0.045924682
+xz,silesia.tar.csv,Linear Regression,0.480684506,2.050750459,0.613805475
+xz,silesia.tar.csv,XGBoost,0.019835849,0.165358175,0.039398721
+xz,silesia.tar.csv,Linear Regression,0.460905501,1.650480994,0.577675973
+xz,silesia.tar.csv,XGBoost,0.018541931,0.12239051,0.039327432
+xz,silesia.tar.csv,Linear Regression,0.46681694,1.970543106,0.581297154
+xz,silesia.tar.csv,XGBoost,0.019116188,0.139357432,0.03711266
+xz,uiq-32.bin.csv,Linear Regression,0.454680042,1.377259137,0.577456616
+xz,uiq-32.bin.csv,XGBoost,0.073824038,0.550513643,0.203155052
+xz,uiq-32.bin.csv,Linear Regression,0.46730108,11.78058319,0.601793134
+xz,uiq-32.bin.csv,XGBoost,0.075541611,2.316954625,0.228031248
+xz,uiq-32.bin.csv,Linear Regression,0.474952025,0.941918812,0.615059145
+xz,uiq-32.bin.csv,XGBoost,0.083652109,0.208907677,0.222061938
+xz,uiq-32.bin.csv,Linear Regression,0.463554069,1.116391148,0.604599121
+xz,uiq-32.bin.csv,XGBoost,0.078946858,0.260191843,0.217123011
+xz,uiq-32.bin.csv,Linear Regression,0.469886828,9.600077182,0.598084908
+xz,uiq-32.bin.csv,XGBoost,0.067359826,2.216242305,0.201250276
+xz,uiq2-16.bin.csv,Linear Regression,0.451493961,1.407253434,0.604611124
+xz,uiq2-16.bin.csv,XGBoost,0.078731574,0.453590136,0.233131786
+xz,uiq2-16.bin.csv,Linear Regression,0.470201568,0.955005685,0.632725938
+xz,uiq2-16.bin.csv,XGBoost,0.095631974,0.160649839,0.296252107
+xz,uiq2-16.bin.csv,Linear Regression,0.462789572,1.119816563,0.612681693
+xz,uiq2-16.bin.csv,XGBoost,0.07496064,0.204110758,0.212489789
+xz,uiq2-16.bin.csv,Linear Regression,0.455080788,1.280419338,0.631599858
+xz,uiq2-16.bin.csv,XGBoost,0.080737663,0.274531548,0.258740124
+xz,uiq2-16.bin.csv,Linear Regression,0.457957406,1.592714142,0.578411387
+xz,uiq2-16.bin.csv,XGBoost,0.068231936,0.482490044,0.166021517
+xz,uiq2-4.bin.csv,Linear Regression,0.439477637,0.946775573,0.626978347
+xz,uiq2-4.bin.csv,XGBoost,0.027035843,0.083393468,0.05100019
+xz,uiq2-4.bin.csv,Linear Regression,0.457366261,1.045763604,0.629380835
+xz,uiq2-4.bin.csv,XGBoost,0.023595057,0.132668885,0.036884026
+xz,uiq2-4.bin.csv,Linear Regression,0.453231121,0.915535432,0.618838398
+xz,uiq2-4.bin.csv,XGBoost,0.027576386,0.078599312,0.055363165
+xz,uiq2-4.bin.csv,Linear Regression,0.44431221,1.057409462,0.641061455
+xz,uiq2-4.bin.csv,XGBoost,0.024410447,0.091464863,0.047105753
+xz,uiq2-4.bin.csv,Linear Regression,0.462357998,0.970701657,0.633040298
+xz,uiq2-4.bin.csv,XGBoost,0.02372086,0.090540076,0.041543345
+xz,uiq2-8.bin.csv,Linear Regression,0.44545071,0.805295554,0.667655242
+xz,uiq2-8.bin.csv,XGBoost,0.094481442,0.167529409,0.297824044
+xz,uiq2-8.bin.csv,Linear Regression,0.456672246,0.910697617,0.63214134
+xz,uiq2-8.bin.csv,XGBoost,0.09529593,0.240377312,0.286705063
+xz,uiq2-8.bin.csv,Linear Regression,0.450753803,0.845866918,0.603851029
+xz,uiq2-8.bin.csv,XGBoost,0.071840455,0.155902697,0.186491546
+xz,uiq2-8.bin.csv,Linear Regression,0.446261178,0.886502219,0.636097045
+xz,uiq2-8.bin.csv,XGBoost,0.093965168,0.185956349,0.325400915
+xz,uiq2-8.bin.csv,Linear Regression,0.459304621,0.943882507,0.596615067
+xz,uiq2-8.bin.csv,XGBoost,0.082051521,0.222013568,0.196164239
+xz,vmlinux-5.10.tar.csv,Linear Regression,0.410470292,1.651298364,0.500491695
+xz,vmlinux-5.10.tar.csv,XGBoost,0.033264623,0.164335304,0.047051316
+xz,vmlinux-5.10.tar.csv,Linear Regression,0.418079906,4.033747713,0.508364127
+xz,vmlinux-5.10.tar.csv,XGBoost,0.033001311,0.356083643,0.054359991
+xz,vmlinux-5.10.tar.csv,Linear Regression,0.426056835,1.790555105,0.517995923
+xz,vmlinux-5.10.tar.csv,XGBoost,0.03552586,0.171240633,0.062710656
+xz,vmlinux-5.10.tar.csv,Linear Regression,0.409740362,1.717336343,0.508746966
+xz,vmlinux-5.10.tar.csv,XGBoost,0.036181112,0.204622203,0.060612662
+xz,vmlinux-5.10.tar.csv,Linear Regression,0.417495059,2.013098128,0.509267387
+xz,vmlinux-5.10.tar.csv,XGBoost,0.033127215,0.203552643,0.047408134
+z3,AUFNIRA_z3.637557.smt2.csv,Linear Regression,0.509521898,0.715717221,0.576149299
+z3,AUFNIRA_z3.637557.smt2.csv,XGBoost,0.001533242,0.001696193,0.00311394
+z3,AUFNIRA_z3.637557.smt2.csv,Linear Regression,0.51216575,0.712394872,0.576920378
+z3,AUFNIRA_z3.637557.smt2.csv,XGBoost,0.001710678,0.001971085,0.00317227
+z3,AUFNIRA_z3.637557.smt2.csv,Linear Regression,0.523995515,0.648645798,0.597120137
+z3,AUFNIRA_z3.637557.smt2.csv,XGBoost,0.001923869,0.001724254,0.003475408
+z3,AUFNIRA_z3.637557.smt2.csv,Linear Regression,0.497876193,0.682653366,0.568604383
+z3,AUFNIRA_z3.637557.smt2.csv,XGBoost,0.001733567,0.001939267,0.003139124
+z3,AUFNIRA_z3.637557.smt2.csv,Linear Regression,0.496835999,0.702969105,0.562412113
+z3,AUFNIRA_z3.637557.smt2.csv,XGBoost,0.001500279,0.001643258,0.002961453
+z3,LRA_formula_277.smt2.csv,Linear Regression,0.279450859,0.34229753,0.284335035
+z3,LRA_formula_277.smt2.csv,XGBoost,0.008468931,0.010167979,0.013402863
+z3,LRA_formula_277.smt2.csv,Linear Regression,0.280124195,0.340769375,0.286621892
+z3,LRA_formula_277.smt2.csv,XGBoost,0.008751496,0.010837187,0.014329432
+z3,LRA_formula_277.smt2.csv,Linear Regression,0.281182829,0.323314947,0.287409814
+z3,LRA_formula_277.smt2.csv,XGBoost,0.008660658,0.009980274,0.015295382
+z3,LRA_formula_277.smt2.csv,Linear Regression,0.278580347,0.331008875,0.283122906
+z3,LRA_formula_277.smt2.csv,XGBoost,0.008959815,0.01030481,0.015189407
+z3,LRA_formula_277.smt2.csv,Linear Regression,0.277381607,0.348568269,0.281585001
+z3,LRA_formula_277.smt2.csv,XGBoost,0.008549501,0.010262433,0.01507932
+z3,QF_AUFBV_891_sqlite3.smt2.csv,Linear Regression,0.365383509,1.010034952,0.455927254
+z3,QF_AUFBV_891_sqlite3.smt2.csv,XGBoost,0.012441644,0.026046137,0.02616397
+z3,QF_AUFBV_891_sqlite3.smt2.csv,Linear Regression,0.404647298,1.675806563,0.54025234
+z3,QF_AUFBV_891_sqlite3.smt2.csv,XGBoost,0.015379772,0.050222978,0.048750164
+z3,QF_AUFBV_891_sqlite3.smt2.csv,Linear Regression,0.380370513,1.762295101,0.473240112
+z3,QF_AUFBV_891_sqlite3.smt2.csv,XGBoost,0.014756048,0.048106365,0.039204114
+z3,QF_AUFBV_891_sqlite3.smt2.csv,Linear Regression,0.418797872,1.76352578,0.58444186
+z3,QF_AUFBV_891_sqlite3.smt2.csv,XGBoost,0.013563797,0.039646232,0.033564033
+z3,QF_AUFBV_891_sqlite3.smt2.csv,Linear Regression,0.397595545,1.009907853,0.521025471
+z3,QF_AUFBV_891_sqlite3.smt2.csv,XGBoost,0.016345166,0.037807572,0.037641568
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,Linear Regression,0.248701464,0.583732053,0.304033087
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,XGBoost,0.00919375,0.028413243,0.013894895
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,Linear Regression,0.242078057,0.616995138,0.291480079
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,XGBoost,0.010323246,0.042263234,0.015326201
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,Linear Regression,0.250646308,0.587790347,0.313913251
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,XGBoost,0.00939591,0.026328832,0.014298802
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,Linear Regression,0.22391731,0.637313606,0.277732729
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,XGBoost,0.008843717,0.037916918,0.013473795
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,Linear Regression,0.244608321,0.564722854,0.296435683
+z3,QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv,XGBoost,0.009351875,0.033656151,0.014288287
+z3,QF_BV_bench_3176.smt2.csv,Linear Regression,0.51846658,0.782714312,0.596689414
+z3,QF_BV_bench_3176.smt2.csv,XGBoost,0.007067775,0.005885964,0.015944309
+z3,QF_BV_bench_3176.smt2.csv,Linear Regression,0.567887608,0.831318058,0.657471814
+z3,QF_BV_bench_3176.smt2.csv,XGBoost,0.006184576,0.00532176,0.013615219
+z3,QF_BV_bench_3176.smt2.csv,Linear Regression,0.536617222,0.899668602,0.598421629
+z3,QF_BV_bench_3176.smt2.csv,XGBoost,0.005168196,0.005685019,0.01109207
+z3,QF_BV_bench_3176.smt2.csv,Linear Regression,0.542856696,0.795502444,0.626241148
+z3,QF_BV_bench_3176.smt2.csv,XGBoost,0.00652489,0.005487601,0.014603562
+z3,QF_BV_bench_3176.smt2.csv,Linear Regression,0.521348315,0.801654063,0.606082959
+z3,QF_BV_bench_3176.smt2.csv,XGBoost,0.00632731,0.005643688,0.014132002
+z3,QF_BV_bench_935.smt2.csv,Linear Regression,0.564654504,0.81773979,0.587862162
+z3,QF_BV_bench_935.smt2.csv,XGBoost,0.00668449,0.004644283,0.015027927
+z3,QF_BV_bench_935.smt2.csv,Linear Regression,0.578217367,0.830157386,0.60378368
+z3,QF_BV_bench_935.smt2.csv,XGBoost,0.006266565,0.004310261,0.014391387
+z3,QF_BV_bench_935.smt2.csv,Linear Regression,0.571909157,0.888891823,0.590690341
+z3,QF_BV_bench_935.smt2.csv,XGBoost,0.006342075,0.004976073,0.015207366
+z3,QF_BV_bench_935.smt2.csv,Linear Regression,0.557832196,0.808988778,0.579952475
+z3,QF_BV_bench_935.smt2.csv,XGBoost,0.006275176,0.004485495,0.013483563
+z3,QF_BV_bench_935.smt2.csv,Linear Regression,0.569678156,0.815872355,0.59381913
+z3,QF_BV_bench_935.smt2.csv,XGBoost,0.007017616,0.005036294,0.015170412
+z3,QF_LIA_tightrhombus.csv,Linear Regression,0.221275326,0.27756133,0.304230425
+z3,QF_LIA_tightrhombus.csv,XGBoost,0.00391703,0.005976981,0.006456199
+z3,QF_LIA_tightrhombus.csv,Linear Regression,0.217730678,0.279290879,0.302504569
+z3,QF_LIA_tightrhombus.csv,XGBoost,0.004310951,0.0066722,0.006877674
+z3,QF_LIA_tightrhombus.csv,Linear Regression,0.232684551,0.317159659,0.317531873
+z3,QF_LIA_tightrhombus.csv,XGBoost,0.004123705,0.006624088,0.006462468
+z3,QF_LIA_tightrhombus.csv,Linear Regression,0.240296933,0.30194441,0.320933509
+z3,QF_LIA_tightrhombus.csv,XGBoost,0.004383738,0.006219474,0.007114313
+z3,QF_LIA_tightrhombus.csv,Linear Regression,0.222713006,0.271198104,0.306539825
+z3,QF_LIA_tightrhombus.csv,XGBoost,0.004214299,0.005823481,0.007015596
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,Linear Regression,0.196074181,1.215440916,0.233384154
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,XGBoost,0.004193299,0.025062212,0.005845952
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,Linear Regression,0.203669256,1.263571869,0.236327077
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,XGBoost,0.00458549,0.026415151,0.006752804
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,Linear Regression,0.191241336,0.963401306,0.229857216
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,XGBoost,0.004482688,0.025732689,0.006683793
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,Linear Regression,0.196821828,1.29928006,0.231646565
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,XGBoost,0.004647296,0.026085369,0.007258187
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,Linear Regression,0.20250057,1.076573104,0.238067166
+z3,QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv,XGBoost,0.004337645,0.022568808,0.006407026
+z3,QF_NRA_hong_9.smt2.csv,Linear Regression,0.007467078,0.007469392,0.011632062
+z3,QF_NRA_hong_9.smt2.csv,XGBoost,0.008208752,0.008207139,0.01301592
+z3,QF_NRA_hong_9.smt2.csv,Linear Regression,0.007747624,0.007705253,0.013842057
+z3,QF_NRA_hong_9.smt2.csv,XGBoost,0.008750899,0.008714228,0.014943594
+z3,QF_NRA_hong_9.smt2.csv,Linear Regression,0.007265279,0.007140147,0.012870163
+z3,QF_NRA_hong_9.smt2.csv,XGBoost,0.008612701,0.008508971,0.014209884
+z3,QF_NRA_hong_9.smt2.csv,Linear Regression,0.007254877,0.007240791,0.012399866
+z3,QF_NRA_hong_9.smt2.csv,XGBoost,0.008368535,0.008393385,0.014306172
+z3,QF_NRA_hong_9.smt2.csv,Linear Regression,0.00679281,0.006733527,0.012129799
+z3,QF_NRA_hong_9.smt2.csv,XGBoost,0.008623503,0.008556163,0.015222072
+z3,QF_RDL_orb08_888.smt2.csv,Linear Regression,0.098830179,0.106015521,0.128735375
+z3,QF_RDL_orb08_888.smt2.csv,XGBoost,0.015587585,0.019074865,0.020784103
+z3,QF_RDL_orb08_888.smt2.csv,Linear Regression,0.104107815,0.110867995,0.131303051
+z3,QF_RDL_orb08_888.smt2.csv,XGBoost,0.015871743,0.01860038,0.021366433
+z3,QF_RDL_orb08_888.smt2.csv,Linear Regression,0.104121038,0.103702608,0.134147779
+z3,QF_RDL_orb08_888.smt2.csv,XGBoost,0.016236736,0.018861215,0.021906086
+z3,QF_RDL_orb08_888.smt2.csv,Linear Regression,0.105223333,0.109240256,0.132100672
+z3,QF_RDL_orb08_888.smt2.csv,XGBoost,0.015706267,0.018889381,0.020673277
+z3,QF_RDL_orb08_888.smt2.csv,Linear Regression,0.104581232,0.107787029,0.134943492
+z3,QF_RDL_orb08_888.smt2.csv,XGBoost,0.016602265,0.019957115,0.021502567
+z3,QF_UFLIA_xs_23_43.smt2.csv,Linear Regression,0.40675253,0.809116802,0.486046892
+z3,QF_UFLIA_xs_23_43.smt2.csv,XGBoost,0.009876499,0.022892759,0.020834948
+z3,QF_UFLIA_xs_23_43.smt2.csv,Linear Regression,0.409640932,0.810090667,0.488849814
+z3,QF_UFLIA_xs_23_43.smt2.csv,XGBoost,0.00975959,0.023747011,0.018652742
+z3,QF_UFLIA_xs_23_43.smt2.csv,Linear Regression,0.418703073,0.665135762,0.534825744
+z3,QF_UFLIA_xs_23_43.smt2.csv,XGBoost,0.009766181,0.018084069,0.017312052
+z3,QF_UFLIA_xs_23_43.smt2.csv,Linear Regression,0.410789488,0.717973708,0.500060234
+z3,QF_UFLIA_xs_23_43.smt2.csv,XGBoost,0.009355922,0.019013098,0.016388618
+z3,QF_UFLIA_xs_23_43.smt2.csv,Linear Regression,0.429560561,0.805133875,0.511685395
+z3,QF_UFLIA_xs_23_43.smt2.csv,XGBoost,0.009152795,0.018628047,0.020171907
+z3,QF_UF_PEQ018_size6.smt2.csv,Linear Regression,0.555991513,1.406405731,0.682994941
+z3,QF_UF_PEQ018_size6.smt2.csv,XGBoost,0.001048848,0.003064929,0.002008481
+z3,QF_UF_PEQ018_size6.smt2.csv,Linear Regression,0.569922374,1.329852601,0.702225408
+z3,QF_UF_PEQ018_size6.smt2.csv,XGBoost,0.001198889,0.003451645,0.002186876
+z3,QF_UF_PEQ018_size6.smt2.csv,Linear Regression,0.5759615,1.189208896,0.758899816
+z3,QF_UF_PEQ018_size6.smt2.csv,XGBoost,0.001459481,0.004243001,0.002615676
+z3,QF_UF_PEQ018_size6.smt2.csv,Linear Regression,0.528971402,1.296381627,0.673904035
+z3,QF_UF_PEQ018_size6.smt2.csv,XGBoost,0.001149935,0.003584899,0.002135205
+z3,QF_UF_PEQ018_size6.smt2.csv,Linear Regression,0.545244981,1.260569854,0.68620335
+z3,QF_UF_PEQ018_size6.smt2.csv,XGBoost,0.001056446,0.00315955,0.001913719
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+SYSTEM,MODEL,MAE,MAPE,RMSE,
+BATLIK,XGBoost,0.093422756,,,
